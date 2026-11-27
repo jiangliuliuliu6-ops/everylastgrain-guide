@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jiangliuliuliu6-ops.github.io/everylastgrain-guide/sitemap.xml
+Sitemap: https://everylastgrain.games/sitemap.xml
